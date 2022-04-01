@@ -1811,7 +1811,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>da2x/EdgeDeflector</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Mar 03 2022</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tiny helper application to force Windows 10 to use your preferred web browser instead of ignoring the setting to promote Microsoft Edge. Only runs for a microsecond when needed.</div>
@@ -1861,7 +1861,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Apr 2022, 10:25:43 (timezone Pacific/Auckland) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 2 Apr 2022, 10:46:48 (timezone Pacific/Auckland) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
