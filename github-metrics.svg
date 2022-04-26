@@ -1685,7 +1685,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>supabase/supabase</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The open source Firebase alternative. Follow to stay updated about our public Beta.</div>
@@ -1888,7 +1888,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Apr 2022, 02:46:28 (timezone Pacific/Auckland) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 27 Apr 2022, 03:31:35 (timezone Pacific/Auckland) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
