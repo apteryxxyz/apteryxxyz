@@ -1867,7 +1867,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PwnFunction/CVE-2021-4034</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Proof of concept for pwnkit vulnerability</div>
@@ -1911,7 +1911,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Aug 2022, 10:48:00 (timezone Pacific/Auckland) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 4 Aug 2022, 11:29:16 (timezone Pacific/Auckland) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
