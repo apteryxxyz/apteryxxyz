@@ -1,4 +1,4 @@
-<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=apteryxxyz.apteryxxyz.testing&style=flat&color=orange">
+<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=apteryxxyz.apteryxxyz&style=flat&color=orange">
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=apteryxxyz&count_private=true&include_all_commits=true&show_icons=true&theme=great-gatsby&icon_color=fff&hide_border=true">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=apteryxxyz&theme=great-gatsby&layout=compact&hide_border=true&langs_count=25">
@@ -8,6 +8,7 @@ Kia ora! I am Apteryx, a self-taught software developer from Aotearoa New Zealan
 
 My programming journey began during my first year of secondary school, where in digitial class, I learnt about Scratch. I later went off and learnt JavaScript on my own, making Discord bots and later websites. In the since, I have learnt many different technologies, including:
 
+<p align="left">
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f0db4f?style=flat&logo=javascript&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007acc?style=flat&logo=typescript&logoColor=white" />
 <img alt="HTML" src="https://img.shields.io/badge/-HTML-de6400?style=flat&logo=html5&logoColor=white" />
@@ -22,14 +23,19 @@ My programming journey began during my first year of secondary school, where in 
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-25E86A?style=flat&logo=mongodb&logoColor=white" />
 <img alt="JSON" src="https://img.shields.io/badge/-JSON-03ad64?style=flat&logo=json&logoColor=white" />
 <img alt="RegEx" src="https://img.shields.io/badge/-RegEx-b51010?style=flat&logo=textpattern&logoColor=white" />
-
+</p>
+  
 I also have minor experience in the following technologies:
 
+<p align="left">
 <img alt="Visual Basic" src="https://img.shields.io/badge/-Visual_Basic-8C58C7?style=flat&logo=visual-studio&logoColor=white" />
 <img alt="Postman" src="https://img.shields.io/badge/-Postman-ba6906?style=flat&logo=postman&logoColor=white" />
 <img alt="Unity" src="https://img.shields.io/badge/-Unity-gray?style=flat&logo=unity&logoColor=white" />
+</p>
 
 Currently learning the following:
 
+<p align="left">
 <img alt="C#" src="https://img.shields.io/badge/-C%23-088512?style=flat&logo=c-sharp&logoColor=white" />
 <img alt=" C++" src="https://img.shields.io/badge/-C%2B%2B-d42892?style=flat&logo=C%2B%2B&logoColor=white" />
+</p>
