@@ -6,7 +6,7 @@
 
 Kia ora! I am Apteryx, a self-taught software developer from Aotearoa New Zealand, with a passion for programming and aviation.
 
-My programming journey began during my first year of secondary school, where in digitial class, I learnt about Scratch. I later went off and learnt JavaScript on my own, making Discord bots and later websites. In the since, I have learnt many different technologies, including:
+My programming journey began during my first year of secondary school, where in digitial class, I learnt about Scratch. I later went off and learnt JavaScript on my own, making Discord bots and later websites. In the time since, I have learnt many different technologies, including:
 
 <p align="left">
 <!-- Languages -->
