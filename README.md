@@ -49,5 +49,6 @@ Currently learning the following:
 
 <p align="left">
 <img alt="C#" src="https://img.shields.io/badge/-C%23-088512?style=flat&logo=c-sharp&logoColor=white" />
-<img alt=" C++" src="https://img.shields.io/badge/-C%2B%2B-d42892?style=flat&logo=C%2B%2B&logoColor=white" />
+<img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-d42892?style=flat&logo=C%2B%2B&logoColor=white" />
+<img alt="Qt" src="https://img.shields.io/badge/Qt-Qt?style=flat&logo=Qt&logoColor=white" />
 </p>
