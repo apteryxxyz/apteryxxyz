@@ -14,6 +14,7 @@ My programming journey began during my first year of secondary school, where in 
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007acc?style=flat&logo=typescript&logoColor=white" />
 <img alt="HTML" src="https://img.shields.io/badge/-HTML-de6400?style=flat&logo=html5&logoColor=white" />
 <img alt="CSS" src="https://img.shields.io/badge/-CSS-6810a3?style=flat&logo=css3&logoColor=white" />
+<img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-d42892?style=flat&logo=C%2B%2B&logoColor=white" />
 
 <!-- Frameworks -->
 <img alt="React" src="https://img.shields.io/badge/-React-61dbfb?style=flat&logo=react&logoColor=white" />
@@ -21,6 +22,7 @@ My programming journey began during my first year of secondary school, where in 
 <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-38BDF8?style=flat&logo=tailwindcss&logoColor=white" />
 <img alt="React Native" src="https://img.shields.io/badge/-React_Native-61dbfb?style=flat&logo=react&logoColor=white" />
 <img alt="Expo" src="https://img.shields.io/badge/-Expo-blue?style=flat&logo=expo&logoColor=white" />
+<img alt="Qt" src="https://img.shields.io/badge/Qt-Qt?style=flat&logo=Qt&logoColor=white" />
 
 <!-- Devops -->
 <img alt="Git" src="https://img.shields.io/badge/-Git-e37f32?style=flat&logo=git&logoColor=white" />
@@ -42,13 +44,14 @@ I also have minor experience in the following technologies:
 <p align="left">
 <img alt="Visual Basic" src="https://img.shields.io/badge/-Visual_Basic-8C58C7?style=flat&logo=visual-studio&logoColor=white" />
 <img alt="Postman" src="https://img.shields.io/badge/-Postman-ba6906?style=flat&logo=postman&logoColor=white" />
+<img alt="C#" src="https://img.shields.io/badge/-C%23-088512?style=flat&logo=c-sharp&logoColor=white" />
 <img alt="Unity" src="https://img.shields.io/badge/-Unity-gray?style=flat&logo=unity&logoColor=white" />
 </p>
 
+<!--
 Currently learning the following:
 
 <p align="left">
-<img alt="C#" src="https://img.shields.io/badge/-C%23-088512?style=flat&logo=c-sharp&logoColor=white" />
-<img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-d42892?style=flat&logo=C%2B%2B&logoColor=white" />
-<img alt="Qt" src="https://img.shields.io/badge/Qt-Qt?style=flat&logo=Qt&logoColor=white" />
+
 </p>
+-->
