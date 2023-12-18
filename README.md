@@ -6,7 +6,7 @@
 
 ### 👋
 
-Kia ora! I'm Cody, a Kiwi web and mobile software developer from Aotearoa New Zealand. I love building things, and I'm always looking for new things to learn. I have experience with a wide range of technologies, including React and TypeScript. Currently studying a Diploma in Software Development.
+Kia ora! I'm Kodie, a Kiwi web and mobile software developer from Aotearoa New Zealand. I love building things, and I'm always looking for new things to learn. I have experience with a wide range of technologies, including React and TypeScript. Currently studying a Diploma in Software Development.
 
 ### 🧑‍💻
 
