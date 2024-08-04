@@ -40,8 +40,6 @@ During 2023, I started learning Unity and Unreal Engine, and have used them with
 
 <!-- discord -->
 
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007acc?style=flat&logo=typescript&logoColor=white" />
-<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-<img alt="Discord.js" src="https://img.shields.io/badge/-Discord.js-7289da?style=flat&logo=discord&logoColor=white" />
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007acc?style=flat&logo=typescript&logoColor=white" /><img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" /><img alt="Discord.js" src="https://img.shields.io/badge/-Discord.js-7289da?style=flat&logo=discord&logoColor=white" />
 
 My Discord app development stack is not as simple as a single set of technologies. I've created a variety of Discord apps, including the [Evaluate bot](https://go.evaluate.run/nAj6fLt), using a combination of TypeScript, Node.js, and Discord.js core.
