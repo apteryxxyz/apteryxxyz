@@ -6,7 +6,7 @@
 
 ### 👋 Kia Ora!
 
-I'm Kodie, a software developer from Aotearoa New Zealand and love writing code and making cool things.
+I'm Kodie, a software developer from Aotearoa New Zealand and like making stuff.
 
 ### 🧑‍💻 My Stack
 
@@ -14,17 +14,17 @@ I'm Kodie, a software developer from Aotearoa New Zealand and love writing code 
 
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007acc?style=flat&logo=typescript&logoColor=white" /><img alt="React" src="https://img.shields.io/badge/-React-61dbfb?style=flat&logo=react&logoColor=white" /><img alt="Next.js" src="https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js&logoColor=white" /><img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white" /><img alt="Prisma" src="https://img.shields.io/badge/-Prisma-000000?style=flat&logo=prisma&logoColor=white" /><img alt="CockroachDB" src="https://img.shields.io/badge/-CockroachDB-6933FF?style=flat&logo=cockroachdb&logoColor=white" />
 
-My web development stack primarily consists of React, Next.js, and Tailwind CSS. Using these technologies, I've built several websites, with my personal favourite being [Evaluate](https://go.evaluate.run/aj6r5V4).
+My web development stack primarily consists of React, Next.js, and Tailwind CSS. Using these, I've built several websites, with my personal favourite being [Evaluate](https://go.evaluate.run/aj6r5V4).
 
 <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" /><img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white" /><img alt="Docker" src="https://img.shields.io/badge/-Docker-0db7ed?style=flat&logo=docker&logoColor=white" /><img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009900?style=flat&logo=nginx&logoColor=white" />
 
-Over time I've used a variety of hosting solutions, currently using Vercel. I originally self-hosted all of my projects locally using a Raspberry Pi, Nginx, and Docker.
+Over time I've used a number of hosting solutions, currently using Vercel. I originally self-hosted all of my projects locally using a Raspberry Pi, Nginx, and Docker.
 
 <!-- mobile -->
 
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007acc?style=flat&logo=typescript&logoColor=white" /><img alt="React Native" src="https://img.shields.io/badge/-React_Native-61dbfb?style=flat&logo=react&logoColor=white" /><img alt="Expo" src="https://img.shields.io/badge/-Expo-blue?style=flat&logo=expo&logoColor=white" />
 
-For mobile app development, I rely on React Native, and Expo. These tools have enabled me to create various mobile apps, particularly soundboard apps featuring popular online personalities.
+For mobile app development, I use React Native, and Expo. These tools have enabled me to create various mobile apps, particularly soundboard apps featuring popular online personalities.
 
 <!-- browser extension -->
 
