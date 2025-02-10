@@ -6,7 +6,7 @@
 
 ### 👋 Kia Ora!
 
-I'm Kodie, a software developer from Aotearoa New Zealand and like making stuff.
+Kia ora! I'm Kodie, a software developer from Aotearoa New Zealand and like making stuff.
 
 ### 🧑‍💻 My Stack
 
@@ -24,7 +24,7 @@ Over time I've used a number of hosting solutions, currently using Vercel. I ori
 
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007acc?style=flat&logo=typescript&logoColor=white" /><img alt="React Native" src="https://img.shields.io/badge/-React_Native-61dbfb?style=flat&logo=react&logoColor=white" /><img alt="Expo" src="https://img.shields.io/badge/-Expo-blue?style=flat&logo=expo&logoColor=white" />
 
-For mobile app development, I use React Native, and Expo. These tools have enabled me to create various mobile apps, particularly soundboard apps featuring popular online personalities.
+For mobile app development, I use React Native, and Expo. These tools have allow me to create various mobile apps, particularly soundboard apps featuring popular online personalities.
 
 <!-- browser extension -->
 
