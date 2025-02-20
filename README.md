@@ -30,7 +30,7 @@ For mobile app development, I use React Native, and Expo. These tools have allow
 
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007acc?style=flat&logo=typescript&logoColor=white" /><img alt="Plasmo" src="https://img.shields.io/badge/-Plasmo-000000?style=flat&logo=plasmo&logoColor=white" /><img alt="React" src="https://img.shields.io/badge/-React-61dbfb?style=flat&logo=react&logoColor=white" />
 
-In developing browser extensions, I use Plasmo, a framework for creating extensions using React. This framework has helped me create the [companion extension](https://go.evaluate.run/m6mobFR) for my Evaluate app.
+In developing browser extensions, I use Vite with relevant plugins. This stack has helped me create the [companion extension](https://go.evaluate.run/m6mobFR) for my Evaluate app.
 
 <!-- game -->
 
