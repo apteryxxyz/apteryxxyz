@@ -35,7 +35,6 @@ In developing browser extensions, I use Vite with relevant plugins. This stack h
 <!-- game -->
 
 <img alt="C#" src="https://img.shields.io/badge/-C%23-088512?style=flat&logo=c-sharp&logoColor=white" /><img alt="Unity" src="https://img.shields.io/badge/-Unity-gray?style=flat&logo=unity&logoColor=white" /><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-d42892?style=flat&logo=C%2B%2B&logoColor=white" /><img alt="Unreal Engine" src="https://img.shields.io/badge/-Unreal_Engine-313131?style=flat&logo=unreal-engine&logoColor=white" />
-
 During 2023, I started learning Unity and Unreal Engine, and have used them with teams to create a variety of small games.
 
 <!-- discord -->
